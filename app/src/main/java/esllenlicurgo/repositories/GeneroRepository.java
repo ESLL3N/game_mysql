@@ -1,4 +1,4 @@
-package main.java.esllenlicurgo.repositories;
+package esllenlicurgo.repositories;
 
 import org.springframework.data.repository.CrudRepository;
 
